@@ -1,4 +1,4 @@
-# CUGBWTWebsite
+# WTWebsite
 
 ## Something about myself
 I'm a green hand. I'm not good enough at coding.
